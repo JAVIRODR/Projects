@@ -1,5 +1,5 @@
-﻿# mazeMain.py
-# Driver code for maze lab
+
+# Vizard anim code
   
 import viz
 import vizshape
