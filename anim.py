@@ -1,4 +1,4 @@
-﻿# maze.py starter Code
+
 
 import viz
 import vizfx
